@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+#container{
+    background-color: azure;
+    text-align: center;
+    margin: 80px;
+    padding: 80px;
+    border-radius: 5px;
+}
+li{
+    list-style: none;
+}
+button{
+    border-radius: 5px;
+    background-color: aquamarine;
+    padding: 15px;
+    margin: 15px;
+}
