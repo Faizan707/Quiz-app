@@ -59,7 +59,7 @@ submit.addEventListener('click',function(){
         loadQuestions()
 
     }else{
-        showScore.innerHTML= "your score is" +""+score
+        showScore.innerHTML=  `your score is ${score}`;
     }
 })
 loadQuestions()
